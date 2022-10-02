@@ -1,0 +1,39 @@
+# lst=["s","e","y","u","b"]
+# print(lst[0],lst[1],lst[2],lst[3],lst[4])
+# print(lst[0:5])
+# print(lst[0:5:2])
+# x="anton"
+# print(x[0:5]
+# x=input("slovo:")
+#
+# print(len(x))
+# x="c:/python3/python/exe"
+# print("name:",x[11:22])
+# print("name:",x[-10:])
+# print("rashirenie:",x[-3:])
+# print("ima kataloga:",x[3:10])
+# print("poini put:",x[0:10])
+# x1=x.split("/")
+# print(x1)
+# print("name:",x1[2])
+# chapter1=input("glava1:")
+# page1=input("stranica:")
+# chapter2=input("glava2:")
+# page2=input("stranica:")
+# chapter3=input("glava3:")
+# page3=input("stranica:")
+# print(chapter1.ljust(15)+page1.rjust(30))
+# print(chapter2.ljust(15)+page2.rjust(30))
+# print(chapter3.ljust(15)+page3.rjust(30))
+# text="12'345'678"
+# temp=text.split("'")
+# print(temp)
+# temp2=(temp[0]+temp[1]+temp[2])
+# print(temp2)
+# number=int(temp2)
+# temp=[text[:2]+text[3:6]]+text[7:]
+# number=int(temp)
+# print(temp)
+# temp=text.replace("'","")
+# number=int(temp)
+# print(temp)
